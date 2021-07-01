@@ -1,0 +1,1 @@
+Examples of class creation.
